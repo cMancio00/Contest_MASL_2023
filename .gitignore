@@ -1,0 +1,10 @@
+#Virtual Enviroment folder
+.venv
+venv
+
+#Notebook checkpoints
+.ipynb_checkpoints
+
+#ignore IDE folder
+.idea
+.vscode
