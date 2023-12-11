@@ -1,14 +1,10 @@
 # Contest Multivariate Analysis and Statistical Learning 2023
-**Autori**: 
-- [Francesco Bellezza](https://github.com/MasterHope)
+**Autore**:
 - [Christian Mancini](https://github.com/cMancio00)
 
-# Confronto tra Random Forest  e modelli lineari per la regressione del punteggio HADS.
-Il [DataSet](/Data/S1%2520File.xlsx) è stato preso dall' articolo [An examination of objectively-measured
-sedentary behavior and mental well-being in
-adults across week days and weekends](/Paper/Anxiety_Depression_Paper.pdf) a cui facciamo riferimento.
+# Multi Sample Splitting
 
-Utilizzare il kernel descritto in seguito per eseguire il [Notebook](/anxiety.ipynb).
+Utilizzare il kernel descritto in seguito per eseguire il [Notebook](/MultiSampleSplitting.ipynb).
 ## Installazione dei requisiti per la riproduzione dei risultati.
 
 ### Creazione dell' Ambiente Virtuale nella cartella cartella `.venv`
